@@ -109,7 +109,7 @@
     },
     {
       "id": 7,
-      "image": "https://i.ibb.co/7.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Focus Plant",
       "companyName": "GreenSoft",
       "description": "Grow virtual plants while staying focused.",
@@ -127,7 +127,7 @@
     },
     {
       "id": 8,
-      "image": "https://i.ibb.co/8.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Alarmy",
       "companyName": "SleepTech",
       "description": "Wake up with smart alarm challenges.",
@@ -145,7 +145,7 @@
     },
     {
       "id": 9,
-      "image": "https://i.ibb.co/9.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Notion Lite",
       "companyName": "Notion",
       "description": "All-in-one workspace for notes and productivity.",
@@ -163,7 +163,7 @@
     },
     {
       "id": 10,
-      "image": "https://i.ibb.co/10.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Todoist",
       "companyName": "Doist",
       "description": "Task manager and to-do list organizer.",
@@ -181,7 +181,7 @@
     },
     {
       "id": 11,
-      "image": "https://i.ibb.co/11.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Evernote",
       "companyName": "Evernote Corp",
       "description": "Note-taking and organization app.",
@@ -199,7 +199,7 @@
     },
     {
       "id": 12,
-      "image": "https://i.ibb.co/12.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Google Keep",
       "companyName": "Google",
       "description": "Simple note-taking app with cloud sync.",

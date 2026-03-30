@@ -7,7 +7,7 @@ const Navbar = () => {
     const menuItems = <>
     <Link to="/">Home</Link>
     <Link to="all-apps">Apps</Link>
-    <Link>Installation</Link>
+    <Link to="/install-apps">Installation</Link>
     </>
     
     
@@ -25,7 +25,7 @@ const Navbar = () => {
         {menuItems}
       </ul>
     </div>
-    <a className="flex text-xl"><img  className='w-8' src={logo} alt="" /><span className='text-3xl font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Hero.IO</span></a>
+    <Link to="/" className="flex text-xl"><img  className='w-8' src={logo} alt="" /><span className='text-3xl font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Hero.IO</span></Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-5 text-blue-500 font-bold">

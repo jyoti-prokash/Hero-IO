@@ -1,15 +1,24 @@
 import { useEffect, useState } from "react";
 import AppCard from "../Components/AppCard";
 
-const AllApps = () => {
+const AllApps = ({limit}) => {
     
     const [apps, setApps] = useState([]);
 
+    // useEffect(() => {
+    //     fetch('/apps.json')
+    //         .then(res => res.json())
+    //         .then(data => setApps(data))
+    // }, []);
     useEffect(() => {
-        fetch('/apps.json')
-            .then(res => res.json())
-            .then(data => setApps(data))
-    }, []);
+        fetch("/apps.json")
+        .then((res) => res.json())
+        .then((data) => {
+            const limitedData = limit ? data.slice(0, limit) : data;
+            setApps(limitedData);
+        });
+    }, [limit]);
+
     return (
         <div className="my-10">
             <div className="text-center mt-10">
