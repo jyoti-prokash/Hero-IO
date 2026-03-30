@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "https://i.ibb.co/1.png",
+      "image": "../src/assets/assets/demo-app (1).webp",
       "title": "Forest: Focus For Productivity",
       "companyName": "Seekrtech",
       "description": "Stay focused and boost productivity using a gamified timer.",
@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "image": "https://i.ibb.co/2.png",
+      "image": "../src/assets/assets/demo-app (2).webp",
       "title": "SmPlan: ToDo List",
       "companyName": "Simple Apps",
       "description": "Organize tasks efficiently with reminders and planning tools.",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "image": "https://i.ibb.co/3.png",
+      "image": "../src/assets/assets/demo-app (3).webp",
       "title": "FLIP - Focus Timer",
       "companyName": "RinaSoft",
       "description": "A study timer designed to improve concentration.",
@@ -55,7 +55,7 @@
     },
     {
       "id": 4,
-      "image": "https://i.ibb.co/4.png",
+      "image": "../src/assets/assets/demo-app (4).webp",
       "title": "Pomocat Timer",
       "companyName": "CatSoft",
       "description": "Cute Pomodoro timer with relaxing themes.",
@@ -73,7 +73,7 @@
     },
     {
       "id": 5,
-      "image": "https://i.ibb.co/5.png",
+      "image": "../src/assets/assets/demo-app (5).webp",
       "title": "Time Planner",
       "companyName": "TimeTech",
       "description": "Schedule your day with ease and track productivity.",
@@ -91,7 +91,7 @@
     },
     {
       "id": 6,
-      "image": "https://i.ibb.co/6.png",
+      "image": "../src/assets/assets/demo-app (6).webp",
       "title": "Morning Habits",
       "companyName": "HabitLab",
       "description": "Build healthy daily routines and track habits.",

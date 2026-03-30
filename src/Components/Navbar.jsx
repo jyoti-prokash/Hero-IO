@@ -5,15 +5,15 @@ import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
     const menuItems = <>
-    <Link to="/"><a>Home</a></Link>
-    <Link to="all-apps"><a>Apps</a></Link>
-    <Link><a>Installation</a></Link>
+    <Link to="/">Home</Link>
+    <Link to="all-apps">Apps</Link>
+    <Link>Installation</Link>
     </>
     
     
     return (
         <div>
-            <div className="navbar bg-base-100 shadow-sm">
+            <div className="navbar bg-base-100">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -25,7 +25,7 @@ const Navbar = () => {
         {menuItems}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl"><img  className='w-8' src={logo} alt="" /><span className='text-3xl font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Hero.IO</span></a>
+    <a className="flex text-xl"><img  className='w-8' src={logo} alt="" /><span className='text-3xl font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Hero.IO</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 gap-5 text-blue-500 font-bold">
