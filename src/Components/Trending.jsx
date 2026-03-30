@@ -11,7 +11,7 @@ const Trending = () => {
             <p>Explore All Trending Apps on the Market developed by us</p>
             </div>
             <div>
-                <AllApps limit={8}></AllApps>
+                <AllApps limit={8} showTitle={false}></AllApps>
             </div>
             <Link to="/all-apps">
             <button className='btn text-white px-5 rounded-lg font-bold gap-1 bg-linear-to-r from-[#632EE3] to-[#9F62F2]'>Show All</button>

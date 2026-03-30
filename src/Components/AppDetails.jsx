@@ -4,6 +4,7 @@ import download from "../assets/assets/icon-downloads.png";
 import rating from "../assets/assets/icon-ratings.png";
 import reviews from "../assets/assets/icon-review.png";
 import RatingChart from "./RatingChart";
+import { toast } from "react-toastify";
 
 const AppDetails = () => {
   const data = useLoaderData();
@@ -35,7 +36,7 @@ const AppDetails = () => {
               {data.reviews}
             </div>
           </div>
-          <button className="btn btn-accent text-white text-xl">Install Now {data.size} MB</button>
+          <button onClick={()=>{toast("Install Complete")}} className="btn btn-accent text-white text-xl">Install Now {data.size} MB</button>
         </div>
       </div>
       <RatingChart></RatingChart>

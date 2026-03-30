@@ -1,16 +1,57 @@
-# React + Vite
+# 📱 App Store Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Description
 
-Currently, two official plugins are available:
+This is a modern App Store web application where users can explore different applications developed by us.
+Users can view trending apps, browse all available apps, and explore app details in a clean and responsive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project is built using modern frontend technologies and focuses on performance, reusability, and user experience.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+* 🔥 Trending Apps section
+* 📦 All Apps listing
+* 🔍 Dynamic data rendering from JSON
+* ⚡ Fast and responsive UI
+* 🎯 Reusable components
+* 🔗 Routing with React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+* ⚛️ React.js
+* 🌐 React Router
+* 🎨 Tailwind CSS
+* 📊 Recharts (for charts/visualization)
+* 📁 JSON (for mock data)
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── Components/
+ ├── Pages/
+ ├── App.jsx
+ ├── main.jsx
+ └── assets/
+```
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🌍 Live Demo
+
+

@@ -1,13 +1,13 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from '../assets/assets/logo.png'
 import { FaGithub } from 'react-icons/fa';
 
 const Navbar = () => {
     const menuItems = <>
-    <Link to="/">Home</Link>
-    <Link to="all-apps">Apps</Link>
-    <Link to="/install-apps">Installation</Link>
+    <NavLink to="/">Home</NavLink>
+    <NavLink to="all-apps">Apps</NavLink>
+    <NavLink to="/install-apps">Installation</NavLink>
     </>
     
     
@@ -28,7 +28,7 @@ const Navbar = () => {
     <Link to="/" className="flex text-xl"><img  className='w-8' src={logo} alt="" /><span className='text-3xl font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>Hero.IO</span></Link>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1 gap-5 text-blue-500 font-bold">
+    <ul className="menu menu-horizontal px-1 gap-5 text-blue-500 font-bold text-xl">
       {menuItems}
     </ul>
   </div>
