@@ -1,0 +1,218 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/1.png",
+      "title": "Forest: Focus For Productivity",
+      "companyName": "Seekrtech",
+      "description": "Stay focused and boost productivity using a gamified timer.",
+      "size": 45,
+      "reviews": 12000,
+      "ratingAvg": 4.7,
+      "downloads": 10000000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 400 },
+        { "name": "3 star", "count": 800 },
+        { "name": "4 star", "count": 3000 },
+        { "name": "5 star", "count": 7600 }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/2.png",
+      "title": "SmPlan: ToDo List",
+      "companyName": "Simple Apps",
+      "description": "Organize tasks efficiently with reminders and planning tools.",
+      "size": 30,
+      "reviews": 8000,
+      "ratingAvg": 4.5,
+      "downloads": 8000000,
+      "ratings": [
+        { "name": "1 star", "count": 150 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 700 },
+        { "name": "4 star", "count": 2500 },
+        { "name": "5 star", "count": 4350 }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/3.png",
+      "title": "FLIP - Focus Timer",
+      "companyName": "RinaSoft",
+      "description": "A study timer designed to improve concentration.",
+      "size": 25,
+      "reviews": 6000,
+      "ratingAvg": 4.6,
+      "downloads": 6000000,
+      "ratings": [
+        { "name": "1 star", "count": 120 },
+        { "name": "2 star", "count": 250 },
+        { "name": "3 star", "count": 600 },
+        { "name": "4 star", "count": 2000 },
+        { "name": "5 star", "count": 3030 }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/4.png",
+      "title": "Pomocat Timer",
+      "companyName": "CatSoft",
+      "description": "Cute Pomodoro timer with relaxing themes.",
+      "size": 20,
+      "reviews": 5000,
+      "ratingAvg": 4.4,
+      "downloads": 5000000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 800 },
+        { "name": "4 star", "count": 1500 },
+        { "name": "5 star", "count": 2200 }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/5.png",
+      "title": "Time Planner",
+      "companyName": "TimeTech",
+      "description": "Schedule your day with ease and track productivity.",
+      "size": 35,
+      "reviews": 7000,
+      "ratingAvg": 4.3,
+      "downloads": 7000000,
+      "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 400 },
+        { "name": "3 star", "count": 900 },
+        { "name": "4 star", "count": 2000 },
+        { "name": "5 star", "count": 3400 }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/6.png",
+      "title": "Morning Habits",
+      "companyName": "HabitLab",
+      "description": "Build healthy daily routines and track habits.",
+      "size": 28,
+      "reviews": 6500,
+      "ratingAvg": 4.6,
+      "downloads": 6500000,
+      "ratings": [
+        { "name": "1 star", "count": 180 },
+        { "name": "2 star", "count": 250 },
+        { "name": "3 star", "count": 700 },
+        { "name": "4 star", "count": 2100 },
+        { "name": "5 star", "count": 3270 }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/7.png",
+      "title": "Focus Plant",
+      "companyName": "GreenSoft",
+      "description": "Grow virtual plants while staying focused.",
+      "size": 22,
+      "reviews": 5500,
+      "ratingAvg": 4.5,
+      "downloads": 5500000,
+      "ratings": [
+        { "name": "1 star", "count": 150 },
+        { "name": "2 star", "count": 250 },
+        { "name": "3 star", "count": 600 },
+        { "name": "4 star", "count": 1800 },
+        { "name": "5 star", "count": 2700 }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/8.png",
+      "title": "Alarmy",
+      "companyName": "SleepTech",
+      "description": "Wake up with smart alarm challenges.",
+      "size": 40,
+      "reviews": 9000,
+      "ratingAvg": 4.4,
+      "downloads": 9000000,
+      "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 400 },
+        { "name": "3 star", "count": 1000 },
+        { "name": "4 star", "count": 3000 },
+        { "name": "5 star", "count": 4300 }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/9.png",
+      "title": "Notion Lite",
+      "companyName": "Notion",
+      "description": "All-in-one workspace for notes and productivity.",
+      "size": 50,
+      "reviews": 15000,
+      "ratingAvg": 4.8,
+      "downloads": 15000000,
+      "ratings": [
+        { "name": "1 star", "count": 100 },
+        { "name": "2 star", "count": 200 },
+        { "name": "3 star", "count": 500 },
+        { "name": "4 star", "count": 4000 },
+        { "name": "5 star", "count": 10200 }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/10.png",
+      "title": "Todoist",
+      "companyName": "Doist",
+      "description": "Task manager and to-do list organizer.",
+      "size": 33,
+      "reviews": 11000,
+      "ratingAvg": 4.7,
+      "downloads": 11000000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 600 },
+        { "name": "4 star", "count": 3500 },
+        { "name": "5 star", "count": 6400 }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/11.png",
+      "title": "Evernote",
+      "companyName": "Evernote Corp",
+      "description": "Note-taking and organization app.",
+      "size": 55,
+      "reviews": 13000,
+      "ratingAvg": 4.6,
+      "downloads": 13000000,
+      "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 400 },
+        { "name": "3 star", "count": 800 },
+        { "name": "4 star", "count": 3500 },
+        { "name": "5 star", "count": 8000 }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/12.png",
+      "title": "Google Keep",
+      "companyName": "Google",
+      "description": "Simple note-taking app with cloud sync.",
+      "size": 20,
+      "reviews": 14000,
+      "ratingAvg": 4.8,
+      "downloads": 20000000,
+      "ratings": [
+        { "name": "1 star", "count": 100 },
+        { "name": "2 star", "count": 200 },
+        { "name": "3 star", "count": 600 },
+        { "name": "4 star", "count": 4000 },
+        { "name": "5 star", "count": 9100 }
+      ]
+    }
+  ]
